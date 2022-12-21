@@ -1,0 +1,4 @@
+### Verify Quantity
+GET http://localhost:8082/api/inventory?skuCode=iphone-13
+Accept: application/json
+
